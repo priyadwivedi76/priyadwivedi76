@@ -1,3 +1,5 @@
+![lodo](https://github.com/priyadwivedi76/priyadwivedi76/blob/main/2nd%20Revision.jpg)
+
 <h1 align="center">Hi 👋, I'm Dwivedi Priya</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 

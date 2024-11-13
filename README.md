@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Dwivedi Priya</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/d6/22/d6/d622d6a69019c7efdfe3415e885cfd5b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyadwivedi76&label=Profile%20views&color=0e75b6&style=flat" alt="priyadwivedi76" /> </p>
 
